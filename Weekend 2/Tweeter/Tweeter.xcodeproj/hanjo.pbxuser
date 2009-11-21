@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TweeterAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 526}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 485}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Tweeter */ = {
+		activeExec = 0;
+		executables = (
+			5738E36410B0211200000F75 /* Tweeter */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TweeterViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 526}}";
+			sepNavSelRange = "{142, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TweeterViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1680.88, 1722}}";
+			sepNavSelRange = "{2125, 11}";
+			sepNavVisRange = "{1793, 715}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5738E36410B0211200000F75 /* Tweeter */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Tweeter */;
+		codeSenseManager = 5738E37010B0211900000F75 /* Code sense */;
+		executables = (
+			5738E36410B0211200000F75 /* Tweeter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					780,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 280488878;
+			PBXWorkspaceStateSaveDate = 280488878;
+		};
+		perUserProjectItems = {
+			57A9560B10B811D400EA0DEF /* PBXTextBookmark */ = 57A9560B10B811D400EA0DEF /* PBXTextBookmark */;
+			57A9560C10B811D400EA0DEF /* PBXTextBookmark */ = 57A9560C10B811D400EA0DEF /* PBXTextBookmark */;
+			57A9560D10B811D400EA0DEF /* PBXTextBookmark */ = 57A9560D10B811D400EA0DEF /* PBXTextBookmark */;
+			57A9560F10B812F400EA0DEF /* PBXTextBookmark */ = 57A9560F10B812F400EA0DEF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5738E36F10B0211900000F75 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5738E36410B0211200000F75 /* Tweeter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Tweeter;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5738E36F10B0211900000F75 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5738E37010B0211900000F75 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	57A9560B10B811D400EA0DEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TweeterAppDelegate.h */;
+		name = "TweeterAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	57A9560C10B811D400EA0DEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TweeterViewController.h */;
+		name = "TweeterViewController.h: 5";
+		rLen = 0;
+		rLoc = 142;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	57A9560D10B811D400EA0DEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TweeterViewController.m */;
+		name = "TweeterViewController.m: 12";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 995;
+	};
+	57A9560F10B812F400EA0DEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TweeterViewController.m */;
+		name = "TweeterViewController.m: 64";
+		rLen = 11;
+		rLoc = 2125;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 1793;
+	};
+}

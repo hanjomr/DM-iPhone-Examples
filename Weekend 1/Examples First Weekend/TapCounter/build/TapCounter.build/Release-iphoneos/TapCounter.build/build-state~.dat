@@ -1,0 +1,324 @@
+TTapCounter
+v7
+r0
+t278159099.215786
+cCheck dependencies
+cCpResource build/Release-iphoneos/TapCounter.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/Info.plist" TapCounter-Info.plist
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/MainWindow.xib"
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounterViewController.xib"
+cProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapCounter_Prefix-clmhdxmvdaigakdbyyklgyzhacpv/TapCounter_Prefix.pch.gch TapCounter_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter" normal armv6
+cGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter"
+cProcessProductPackaging "/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision" "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/embedded.mobileprovision"
+cTouch "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter.xcent"
+cCodeSign "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004ABFDAFE0000000000000110
+t1254087422
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+c000000004ABDB88400000000000000DD
+t1253947524
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterAppDelegate.h
+c000000004AE414E900000000000001F7
+t1256461545
+s503
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterAppDelegate.m
+c000000004AE414E9000000000000027F
+t1256461545
+s639
+i"TapCounterAppDelegate.h"
+i"TapCounterViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.h
+c000000004AE425D50000000000000124
+t1256465877
+s292
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m
+c000000004AE4270A00000000000003DA
+t1256466186
+s986
+i"TapCounterViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/MainWindow.xib
+c000000004AE414E9000000000000246F
+t1256461545
+s9327
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounterViewController.xib
+c000000004AE419DF0000000000003A71
+t1256462815
+s14961
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounter_Prefix.pch
+c000000004AE414E900000000000000BD
+t1256461545
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app
+t1256466299
+s374
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app.dSYM
+t1256466298
+s102
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/Info.plist
+t1256466294
+s642
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/MainWindow.nib
+t1256466297
+s1501
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/PkgInfo
+t1256466294
+s8
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/ResourceRules.plist
+t1256466294
+s485
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter
+t1256466298
+s17292
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounterViewController.nib
+t1256466297
+s1183
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/embedded.mobileprovision
+t1256466298
+s11618
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounter.LinkFileList
+c000000004AE4277600000000000001C0
+t1256466294
+s448
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterAppDelegate.o
+t1256466298
+s40468
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterViewController.o
+t1256466298
+s36476
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/main.o
+t1256466298
+s6668
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter.xcent
+t1256466298
+s323
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/main.m
+c000000004AE414E90000000000000172
+t1256461545
+s370
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision
+c00000000497A19470000000000002D62
+t1232738631
+s11618
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapCounter_Prefix-clmhdxmvdaigakdbyyklgyzhacpv/TapCounter_Prefix.pch.gch
+t1256466298
+s7700664
+
+NTapCounter-Info.plist
+c000000004AE414E9000000000000038D
+t1256461545
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278159094#278159094#0(0"0(0#1#0"4300885448#0"0#
+
+CCodeSign "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app"
+s278159098.821247
+e278159099.215203
+r1
+xCodeSign
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app
+lSLF07#2@46"CodeSign build/Release-iphoneos/TapCounter.app278159098#278159099#0(0"0(0#0#89"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app4300885448#719"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Hanjo Meyer-Rieke" "--resource-rules=/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/ResourceRules.plist" --entitlements "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter.xcent" "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app"0#
+
+CCompileC build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278159098.346624
+e278159098.578191
+r1
+xCompileC
+xbuild/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterAppDelegate.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterAppDelegate.m278159098#278159098#0(0"0(0#0#83"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterAppDelegate.m4300885448#2030"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/DerivedSources/armv6" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapCounter_Prefix-clmhdxmvdaigakdbyyklgyzhacpv/TapCounter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterAppDelegate.o"0#
+
+CCompileC build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278159098.533331
+e278159098.653085
+r1
+xCompileC
+xbuild/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterViewController.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m: In function '-[TapCounterViewController touchesBegan:withEvent:]':
+o/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m:12: warning: unused variable 'touch'
+lSLF07#2@94"Compile /Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m278159098#278159098#0(279"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m: In function '-[TapCounterViewController touchesBegan:withEvent:]':/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m:12: warning: unused variable 'touch'1(22@23"Unused variable 'touch'278159098#155#124#0(6@86"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m278158986#12#0#12#0#19"unused variable '*'0(0#0#86"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m4300885448#2036"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/DerivedSources/armv6" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapCounter_Prefix-clmhdxmvdaigakdbyyklgyzhacpv/TapCounter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/Classes/TapCounterViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounterViewController.o"0#
+
+CCompileC build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278159098.344710
+e278159098.533207
+r1
+xCompileC
+xbuild/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/main.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/main.m278159098#278159098#0(0"0(0#0#58"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/main.m4300885448#1988"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/DerivedSources/armv6" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapCounter_Prefix-clmhdxmvdaigakdbyyklgyzhacpv/TapCounter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/MainWindow.xib"
+s278159094.900692
+e278159097.394645
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib278159094#278159097#0(0"0(0#0#66"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/MainWindow.xib4300885448#518"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/MainWindow.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/MainWindow.xib"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounterViewController.xib"
+s278159094.901891
+e278159097.407627
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounterViewController.xib
+lSLF07#2@39"CompileXIB TapCounterViewController.xib278159094#278159097#0(0"0(0#0#80"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounterViewController.xib4300885448#546"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounterViewController.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounterViewController.xib"0#
+
+CCpResource build/Release-iphoneos/TapCounter.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+s278159094.857165
+e278159094.899922
+r1
+xCpResource
+xbuild/Release-iphoneos/TapCounter.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist278159094#278159094#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist4300885448#538"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app"0#
+
+CGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter"
+s278159098.697797
+e278159098.750669
+r1
+xGenerateDSYMFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app.dSYM
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter
+lSLF07#2@108"GenerateDSYMFile build/Release-iphoneos/TapCounter.app.dSYM build/Release-iphoneos/TapCounter.app/TapCounter278159098#278159098#0(0"0(0#0#100"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter4300885448#420"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app.dSYM"0#
+
+CLd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter" normal armv6
+s278159098.653203
+e278159098.697527
+r1
+xLd
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter
+xnormal
+xarmv6
+lSLF07#2@105"Link /Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter278159098#278159098#0(0"0(0#0#0"4300885448#993"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk "-L/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos" -filelist "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/Objects-normal/armv6/TapCounter.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/TapCounter"0#
+
+CProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/Info.plist" TapCounter-Info.plist
+s278159094.858757
+e278159094.900600
+r1
+xProcessInfoPlistFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/Info.plist
+xTapCounter-Info.plist
+lSLF07#2@29"Process TapCounter-Info.plist278159094#278159094#0(0"0(0#0#73"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounter-Info.plist4300885448#640"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TapCounter-Info.plist -genpkginfo "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/ResourceRules.plist" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapCounter_Prefix-clmhdxmvdaigakdbyyklgyzhacpv/TapCounter_Prefix.pch.gch TapCounter_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278159097.407775
+e278159098.344546
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapCounter_Prefix-clmhdxmvdaigakdbyyklgyzhacpv/TapCounter_Prefix.pch.gch
+xTapCounter_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile TapCounter_Prefix.pch278159097#278159098#0(0"0(0#0#73"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounter_Prefix.pch4300885448#1866"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/DerivedSources/armv6" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/TapCounter_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapCounter_Prefix-clmhdxmvdaigakdbyyklgyzhacpv/TapCounter_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision" "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/embedded.mobileprovision"
+s278159098.750825
+e278159098.782616
+r1
+xProcessProductPackaging
+x/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision" build/Release-iphoneos/TapCounter.app/embedded.mobileprovision278159098#278159098#0(0"0(0#0#114"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/embedded.mobileprovision4300885448#458"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter.xcent"
+s278159098.786808
+e278159098.821119
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter.xcent
+lSLF07#2@188"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter.xcent278159098#278159098#0(0"0(0#0#125"/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter.xcent4300885448#475"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/TapCounter.build/Release-iphoneos/TapCounter.build/TapCounter.xcent"0#
+
+CTouch "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app"
+s278159098.782721
+e278159098.786703
+r1
+xTouch
+x/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app
+lSLF07#2@95"Touch /Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app278159098#278159098#0(0"0(0#0#0"4300885448#299"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hanjo/Documents/iPhone Kurs/demos/TapCounter/build/Release-iphoneos/TapCounter.app"0#
+

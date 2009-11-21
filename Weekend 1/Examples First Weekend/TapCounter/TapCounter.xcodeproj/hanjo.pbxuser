@@ -1,0 +1,183 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* TapCounterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 516}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 481}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TapCounter */ = {
+		activeExec = 0;
+		executables = (
+			570ABBFF10944C6900B761CE /* TapCounter */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TapCounterViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 516}}";
+			sepNavSelRange = "{288, 0}";
+			sepNavVisRange = "{0, 297}";
+			sepNavWindowFrame = "{{15, 4}, {750, 742}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TapCounterViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 516}}";
+			sepNavSelRange = "{363, 0}";
+			sepNavVisRange = "{0, 435}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 570ABBFF10944C6900B761CE /* TapCounter */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TapCounter */;
+		breakpoints = (
+		);
+		codeSenseManager = 570ABC0410944C8800B761CE /* Code sense */;
+		executables = (
+			570ABBFF10944C6900B761CE /* TapCounter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 278282813;
+			PBXWorkspaceStateSaveDate = 278282813;
+		};
+		perUserProjectItems = {
+			570ABC48109466E600B761CE = 570ABC48109466E600B761CE /* PBXTextBookmark */;
+			570ABC4A109466E600B761CE = 570ABC4A109466E600B761CE /* PBXTextBookmark */;
+			570ABC8C109480FE00B761CE = 570ABC8C109480FE00B761CE /* PBXTextBookmark */;
+			570ABC921094812700B761CE = 570ABC921094812700B761CE /* PBXTextBookmark */;
+			570ABC9D109481B000B761CE = 570ABC9D109481B000B761CE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 570ABC0310944C8800B761CE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	570ABBFF10944C6900B761CE /* TapCounter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TapCounter;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+		variableFormatDictionary = {
+		};
+	};
+	570ABC0310944C8800B761CE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	570ABC0410944C8800B761CE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	570ABC48109466E600B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 570ABC49109466E600B761CE /* CGGeometry.h */;
+		name = "CGGeometry.h: 13";
+		rLen = 17;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 428;
+		vrLoc = 0;
+	};
+	570ABC49109466E600B761CE /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	570ABC4A109466E600B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TapCounterAppDelegate.m */;
+		name = "TapCounterAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 0;
+	};
+	570ABC8C109480FE00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TapCounterViewController.h */;
+		name = "TapCounterViewController.h: 12";
+		rLen = 0;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 297;
+		vrLoc = 0;
+	};
+	570ABC921094812700B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TapCounterViewController.m */;
+		name = "TapCounterViewController.m: 13";
+		rLen = 0;
+		rLoc = 360;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 0;
+	};
+	570ABC9D109481B000B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TapCounterViewController.m */;
+		name = "TapCounterViewController.m: 13";
+		rLen = 0;
+		rLoc = 360;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 0;
+	};
+}

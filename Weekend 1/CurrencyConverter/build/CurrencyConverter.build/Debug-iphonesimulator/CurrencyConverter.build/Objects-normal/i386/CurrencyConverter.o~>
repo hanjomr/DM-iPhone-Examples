@@ -1,0 +1,9 @@
+/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverter.m: In function '-[CurrencyConverter initWithConversionRate:]':
+/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverter.m:5: warning: conflicting types for '-(id)initWithConversionRate:(float)rate'
+/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverter.h:7: warning: previous declaration of '-(id)initWithConversionRate:(NSDecimal)rate'
+/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverter.m:8: error: incompatible types in assignment
+/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverter.m: In function '-[CurrencyConverter convert:]':
+/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverter.m:13: warning: conflicting types for '-(float)convert:(float)base'
+/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverter.h:8: warning: previous declaration of '-(NSDecimal)convert:(NSDecimal)base'
+/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverter.m:15: error: invalid operands to binary * (have 'float' and 'NSDecimal')
+/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverter.m:16: warning: control reaches end of non-void function

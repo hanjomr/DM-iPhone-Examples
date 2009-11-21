@@ -1,0 +1,270 @@
+TCurrencyConverter
+v7
+r0
+t276957378.565235
+cCheck dependencies
+cProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/Info.plist" CurrencyConverter-Info.plist
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/MainWindow.xib"
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverterViewController.xib"
+cProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverter_Prefix-evesrdnpawthrreeaqwlfkvgyhcc/CurrencyConverter_Prefix.pch.gch CurrencyConverter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/Money.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004ACF824900000000000000EE
+t1255113289
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterAppDelegate.h
+c000000004AD1D0670000000000000221
+t1255264359
+s545
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterAppDelegate.m
+c000000004AD1D06700000000000002A2
+t1255264359
+s674
+i"CurrencyConverterAppDelegate.h"
+i"CurrencyConverterViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterViewController.h
+c000000004AD1D0670000000000000112
+t1255264359
+s274
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterViewController.m
+c000000004AD1D0760000000000000536
+t1255264374
+s1334
+i"CurrencyConverterViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.h
+c000000004AD1D13F000000000000007A
+t1255264575
+s122
+i<Cocoa/Cocoa.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m
+c000000004AD1D0E400000000000000C5
+t1255264484
+s197
+i"Money.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverterViewController.xib
+c000000004AD1D0670000000000001903
+t1255264359
+s6403
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverter_Prefix.pch
+c000000004AD1D06700000000000000CB
+t1255264359
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/MainWindow.xib
+c000000004AD1D06700000000000024BC
+t1255264359
+s9404
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverter.LinkFileList
+c000000004AD1D13F00000000000002BC
+t1255264575
+s700
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterAppDelegate.o
+t1255264577
+s38348
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterViewController.o
+t1255264578
+s30116
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/Money.o
+t2
+s0
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/main.o
+t1255264577
+s5996
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app
+t2
+s0
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app.dSYM
+t2
+s0
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/CurrencyConverter
+t2
+s0
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/CurrencyConverterViewController.nib
+t1255264575
+s1151
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/Info.plist
+t1255264575
+s610
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/MainWindow.nib
+t1255264575
+s1515
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/PkgInfo
+t1255264575
+s8
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/main.m
+c000000004AD1D0670000000000000179
+t1255264359
+s377
+i<UIKit/UIKit.h>
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverter_Prefix-evesrdnpawthrreeaqwlfkvgyhcc/CurrencyConverter_Prefix.pch.gch
+t1255264577
+s13034960
+
+NCurrencyConverter-Info.plist
+c000000004AD1D067000000000000038D
+t1255264359
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies276957375#276957375#0(0"0(0#1#0"9007688887631988#0"0#
+
+CCompileC build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s276957377.532219
+e276957378.010043
+r1
+xCompileC
+xbuild/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterAppDelegate.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterAppDelegate.m276957377#276957378#0(0"0(0#0#97"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterAppDelegate.m4300885448#2357"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverter_Prefix-evesrdnpawthrreeaqwlfkvgyhcc/CurrencyConverter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterAppDelegate.o"0#
+
+CCompileC build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s276957377.956424
+e276957378.543608
+r1
+xCompileC
+xbuild/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterViewController.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterViewController.m276957377#276957378#0(0"0(0#0#100"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterViewController.m4300885448#2363"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverter_Prefix-evesrdnpawthrreeaqwlfkvgyhcc/CurrencyConverter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/CurrencyConverterViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/CurrencyConverterViewController.o"0#
+
+CCompileC build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/Money.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s276957378.010203
+e276957378.565101
+r0
+xCompileC
+xbuild/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/Money.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m:9:
+o/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.h:1:24: error: Cocoa/Cocoa.h: No such file or directory
+o/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m:14: warning: incomplete implementation of class 'Money'
+o/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m:14: warning: method definition for '-amountIn$Cent' not found
+lSLF07#2@82"Compile /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m276957378#276957378#0(497"In file included from /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m:9:/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.h:1:24: error: Cocoa/Cocoa.h: No such file or directory/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m:14: warning: incomplete implementation of class 'Money'/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m:14: warning: method definition for '-amountIn$Cent' not found3(4@40"Cocoa/Cocoa.h: No such file or directory276957378#100#129#2(7@96"In file included from /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m276957378#18446744073709551615#0#0(6@74"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m276957284#9#0#9#0#0"0(13@118"Cocoa/Cocoa.h: No such file or directory in /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.h276957378#18446744073709551615#0#0(6@74"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.h276957375#1#0#1#0#0"0(6@74"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.h276957375#1#0#1#0#28"*: No such file or directory0(22@42"Incomplete implementation of class 'Money'276957378#229#131#0(6@74"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m276957284#14#0#14#0#38"incomplete implementation of class '*'0(22@48"Method definition for '-amountIn$Cent' not found276957378#360#137#0(6@74"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m276957284#14#0#14#0#35"method definition for '*' not found0(0#0#74"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m4300885448#2311"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverter_Prefix-evesrdnpawthrreeaqwlfkvgyhcc/CurrencyConverter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/Classes/Money.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/Money.o"1#
+
+CCompileC build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s276957377.501653
+e276957377.956301
+r1
+xCompileC
+xbuild/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/main.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/main.m276957377#276957377#0(0"0(0#0#65"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/main.m4300885448#2301"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverter_Prefix-evesrdnpawthrreeaqwlfkvgyhcc/CurrencyConverter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverterViewController.xib"
+s276957375.140456
+e276957375.665409
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverterViewController.xib
+lSLF07#2@46"CompileXIB CurrencyConverterViewController.xib276957375#276957375#0(0"0(0#0#94"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverterViewController.xib4300885448#600"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/CurrencyConverterViewController.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverterViewController.xib"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/MainWindow.xib"
+s276957375.116722
+e276957375.672231
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib276957375#276957375#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#73"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/MainWindow.xib27866499440181296#558"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/MainWindow.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/CurrencyConverter"
+r0
+
+CLd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/CurrencyConverter" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/Info.plist" CurrencyConverter-Info.plist
+s276957375.078262
+e276957375.116565
+r1
+xProcessInfoPlistFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/Info.plist
+xCurrencyConverter-Info.plist
+lSLF07#2@36"Process CurrencyConverter-Info.plist276957375#276957375#0(0"0(0#0#87"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverter-Info.plist3419199057747521536#575"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CurrencyConverter-Info.plist -genpkginfo "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverter_Prefix-evesrdnpawthrreeaqwlfkvgyhcc/CurrencyConverter_Prefix.pch.gch CurrencyConverter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s276957375.672406
+e276957377.501402
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverter_Prefix-evesrdnpawthrreeaqwlfkvgyhcc/CurrencyConverter_Prefix.pch.gch
+xCurrencyConverter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile CurrencyConverter_Prefix.pch276957375#276957377#0(0"0(0#0#87"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverter_Prefix.pch4300885448#2161"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/CurrencyConverter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/CurrencyConverter_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyConverter_Prefix-evesrdnpawthrreeaqwlfkvgyhcc/CurrencyConverter_Prefix.pch.gch0#
+
+CTouch "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyConverter/build/Debug-iphonesimulator/CurrencyConverter.app"
+r0
+

@@ -1,0 +1,326 @@
+TMultiplicationExplorer
+v7
+r0
+t278168056.427492
+cCheck dependencies
+cCpResource build/Debug-iphoneos/MultiplicationExplorer.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/Info.plist" MultiplicationExplorer-Info.plist
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MainWindow.xib"
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/RootViewController.xib"
+cProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiplicationExplorer_Prefix-duuwuwryanlvvbefzalircszfcfl/MultiplicationExplorer_Prefix.pch.gch MultiplicationExplorer_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/MultiplicationExplorerAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/MultiplicationExplorerAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/RootViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer" normal armv6
+cGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer"
+cProcessProductPackaging "/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision" "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/embedded.mobileprovision"
+cTouch "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer.xcent"
+cCodeSign "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004ABFDAFE0000000000000110
+t1254087422
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+c000000004ABDB88400000000000000DD
+t1253947524
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/include/Availability.h
+c000000004ABDC79900000000000019F9
+t1253951385
+s6649
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/MultiplicationExplorerAppDelegate.h
+c000000004AE44A2D00000000000001ED
+t1256475181
+s493
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/MultiplicationExplorerAppDelegate.m
+c000000004AE44A2D0000000000000378
+t1256475181
+s888
+i"MultiplicationExplorerAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/RootViewController.h
+c000000004AE44A2D00000000000000E7
+t1256475181
+s231
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/RootViewController.m
+c000000004AE44A730000000000000F6D
+t1256475251
+s3949
+i"RootViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MainWindow.xib
+c000000004AE44A2D0000000000002C9D
+t1256475181
+s11421
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MultiplicationExplorer_Prefix.pch
+c000000004AE44A2D000000000000015E
+t1256475181
+s350
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/RootViewController.xib
+c000000004AE44A2D0000000000004330
+t1256475181
+s17200
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app
+t1256475256
+s374
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app.dSYM
+t1256475255
+s102
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/Info.plist
+t1256475252
+s696
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MainWindow.nib
+t1256475252
+s2027
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer
+t1256475255
+s17520
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/PkgInfo
+t1256475252
+s8
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/ResourceRules.plist
+t1256475252
+s485
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/RootViewController.nib
+t1256475252
+s1388
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/embedded.mobileprovision
+t1256475255
+s11618
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer.xcent
+t1256475255
+s335
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/MultiplicationExplorer.LinkFileList
+c000000004AE44A74000000000000022C
+t1256475252
+s556
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/MultiplicationExplorerAppDelegate.o
+t1256475254
+s42776
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/RootViewController.o
+t1256475254
+s32964
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/main.o
+t1256475254
+s6600
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/main.m
+c000000004AE44A2D000000000000017E
+t1256475181
+s382
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision
+c00000000497A19470000000000002D62
+t1232738631
+s11618
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiplicationExplorer_Prefix-duuwuwryanlvvbefzalircszfcfl/MultiplicationExplorer_Prefix.pch.gch
+t1256475254
+s7876792
+
+NMultiplicationExplorer-Info.plist
+c000000004AE44A2D000000000000038D
+t1256475181
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278168052#278168052#0(0"0(0#1#0"4300885448#0"0#
+
+CCodeSign "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app"
+s278168055.463402
+e278168056.427274
+r1
+xCodeSign
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app
+lSLF07#2@56"CodeSign build/Debug-iphoneos/MultiplicationExplorer.app278168055#278168056#0(0"0(0#0#111"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app4300885448#821"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Hanjo Meyer-Rieke" "--resource-rules=/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/ResourceRules.plist" --entitlements "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer.xcent" "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app"0#
+
+CCompileC build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/MultiplicationExplorerAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/MultiplicationExplorerAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278168054.563008
+e278168054.807157
+r1
+xCompileC
+xbuild/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/MultiplicationExplorerAppDelegate.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/MultiplicationExplorerAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/MultiplicationExplorerAppDelegate.m278168054#278168054#0(0"0(0#0#107"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/MultiplicationExplorerAppDelegate.m4300885448#2391"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/DerivedSources/armv6" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiplicationExplorer_Prefix-duuwuwryanlvvbefzalircszfcfl/MultiplicationExplorer_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/MultiplicationExplorerAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/MultiplicationExplorerAppDelegate.o"0#
+
+CCompileC build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/RootViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278168054.796208
+e278168054.867824
+r1
+xCompileC
+xbuild/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/RootViewController.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/RootViewController.m278168054#278168054#0(0"0(0#0#92"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/RootViewController.m4300885448#2361"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/DerivedSources/armv6" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiplicationExplorer_Prefix-duuwuwryanlvvbefzalircszfcfl/MultiplicationExplorer_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/Classes/RootViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/RootViewController.o"0#
+
+CCompileC build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278168054.560852
+e278168054.796080
+r1
+xCompileC
+xbuild/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/main.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/main.m278168054#278168054#0(0"0(0#0#70"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/main.m4300885448#2325"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/DerivedSources/armv6" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiplicationExplorer_Prefix-duuwuwryanlvvbefzalircszfcfl/MultiplicationExplorer_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MainWindow.xib"
+s278168052.330111
+e278168052.713098
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib278168052#278168052#0(0"0(0#0#78"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MainWindow.xib4300885448#564"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MainWindow.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MainWindow.xib"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/RootViewController.xib"
+s278168052.331364
+e278168052.696300
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib278168052#278168052#0(0"0(0#0#86"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/RootViewController.xib4300885448#580"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/RootViewController.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/RootViewController.xib"0#
+
+CCpResource build/Debug-iphoneos/MultiplicationExplorer.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+s278168052.219125
+e278168052.329942
+r1
+xCpResource
+xbuild/Debug-iphoneos/MultiplicationExplorer.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist278168052#278168052#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist4300885448#551"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app"0#
+
+CGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer"
+s278168055.301782
+e278168055.347128
+r1
+xGenerateDSYMFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app.dSYM
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer
+lSLF07#2@140"GenerateDSYMFile build/Debug-iphoneos/MultiplicationExplorer.app.dSYM build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer278168055#278168055#0(0"0(0#0#134"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer4300885448#488"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer" -o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app.dSYM"0#
+
+CLd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer" normal armv6
+s278168054.867943
+e278168055.301580
+r1
+xLd
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer
+xnormal
+xarmv6
+lSLF07#2@139"Link /Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer278168054#278168055#0(0"0(0#0#0"4300885448#1105"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk "-L/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos" "-F/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos" -filelist "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/Objects-normal/armv6/MultiplicationExplorer.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/MultiplicationExplorer"0#
+
+CProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/Info.plist" MultiplicationExplorer-Info.plist
+s278168052.221682
+e278168052.280331
+r1
+xProcessInfoPlistFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/Info.plist
+xMultiplicationExplorer-Info.plist
+lSLF07#2@41"Process MultiplicationExplorer-Info.plist278168052#278168052#0(0"0(0#0#97"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MultiplicationExplorer-Info.plist4300885448#730"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultiplicationExplorer-Info.plist -genpkginfo "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/ResourceRules.plist" -o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiplicationExplorer_Prefix-duuwuwryanlvvbefzalircszfcfl/MultiplicationExplorer_Prefix.pch.gch MultiplicationExplorer_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278168052.713246
+e278168054.560585
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiplicationExplorer_Prefix-duuwuwryanlvvbefzalircszfcfl/MultiplicationExplorer_Prefix.pch.gch
+xMultiplicationExplorer_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile MultiplicationExplorer_Prefix.pch278168052#278168054#0(0"0(0#0#97"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MultiplicationExplorer_Prefix.pch4300885448#2181"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/DerivedSources/armv6" "-I/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/MultiplicationExplorer_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiplicationExplorer_Prefix-duuwuwryanlvvbefzalircszfcfl/MultiplicationExplorer_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision" "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/embedded.mobileprovision"
+s278168055.347274
+e278168055.409094
+r1
+xProcessProductPackaging
+x/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision" build/Debug-iphoneos/MultiplicationExplorer.app/embedded.mobileprovision278168055#278168055#0(0"0(0#0#136"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/embedded.mobileprovision4300885448#492"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/hanjo/Library/MobileDevice/Provisioning Profiles/FD9B184E-F25F-472E-A7C3-D7DDC233F1C7.mobileprovision" -o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer.xcent"
+s278168055.416061
+e278168055.463311
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer.xcent
+lSLF07#2@222"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer.xcent278168055#278168055#0(0"0(0#0#171"/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer.xcent4300885448#533"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/MultiplicationExplorer.build/Debug-iphoneos/MultiplicationExplorer.build/MultiplicationExplorer.xcent"0#
+
+CTouch "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app"
+s278168055.409212
+e278168055.415930
+r1
+xTouch
+x/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app
+lSLF07#2@117"Touch /Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app278168055#278168055#0(0"0(0#0#0"4300885448#333"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hanjo/Documents/iPhone Kurs/demos/MultiplicationExplorer/build/Debug-iphoneos/MultiplicationExplorer.app"0#
+

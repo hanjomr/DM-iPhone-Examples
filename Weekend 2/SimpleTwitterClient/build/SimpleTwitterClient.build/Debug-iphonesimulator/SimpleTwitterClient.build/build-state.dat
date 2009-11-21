@@ -1,0 +1,417 @@
+TSimpleTwitterClient
+v7
+r0
+t280266755.858866
+cCheck dependencies
+cProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/Info.plist" SimpleTwitterClient-Info.plist
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/MainWindow.xib"
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/RootViewController.xib"
+cProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch.gch SimpleTwitterClient_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/SimpleTwitterClientAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/RootViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/StatusParserDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/Status.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient" normal i386
+cGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient"
+cTouch "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004ACF824900000000000000EE
+t1255113289
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.h
+c000000004AFEBE560000000000000053
+t1258208854
+s83
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m
+c000000004B044A420000000000000FE3
+t1258572354
+s4067
+i"RootViewController.h"
+i"Status.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.h
+c000000004AFEAFE600000000000001E4
+t1258205158
+s484
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m
+c000000004AFEAFE6000000000000036C
+t1258205158
+s876
+i"SimpleTwitterClientAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.h
+c000000004AFEBD3300000000000000A8
+t1258208563
+s168
+i<Foundation/Foundation.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m
+c000000004B0448FD0000000000000213
+t1258572029
+s531
+i"Status.h"
+i"StatusParserDelegate.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h
+c000000004AFEBD8900000000000001A6
+t1258208649
+s422
+i<Foundation/Foundation.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m
+c000000004AFFE47B00000000000005F1
+t1258284155
+s1521
+i"StatusParserDelegate.h"
+i"Status.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/MainWindow.xib
+c000000004AFEAFE60000000000002C91
+t1258205158
+s11409
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/RootViewController.xib
+c000000004AFEAFE6000000000000432D
+t1258205158
+s17197
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/SimpleTwitterClient_Prefix.pch
+c000000004AFEAFE60000000000000158
+t1258205158
+s344
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app
+t1258573955
+s238
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app.dSYM
+t1258573955
+s102
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/Info.plist
+t1258205581
+s618
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/MainWindow.nib
+t1258205582
+s2024
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/PkgInfo
+t1258205581
+s8
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/RootViewController.nib
+t1258205582
+s1388
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient
+t1258573955
+s27804
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/RootViewController.o
+t1258573954
+s33660
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/SimpleTwitterClient.LinkFileList
+c000000004AFEB18D0000000000000382
+t1258205581
+s898
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/SimpleTwitterClientAppDelegate.o
+t1258209010
+s40160
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/Status.o
+t1258573954
+s9264
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/StatusParserDelegate.o
+t1258284155
+s13896
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/main.o
+t1258205584
+s6000
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/RootViewController.plist
+t1258232363
+s275
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/SimpleTwitterClientAppDelegate.plist
+t1258232363
+s275
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/Status.plist
+t2
+s0
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/StatusParserDelegate.plist
+t2
+s0
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/main.plist
+t1258232363
+s275
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m
+c000000004AFEAFE6000000000000017B
+t1258205158
+s379
+i<UIKit/UIKit.h>
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch.gch
+t1258205584
+s13034960
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-gtiefoamhdprmmbpgdczheiydrts/SimpleTwitterClient_Prefix.pch.pth
+t1258232363
+s1728168
+
+NSimpleTwitterClient-Info.plist
+c000000004AFEAFE6000000000000038D
+t1258205158
+s909
+
+CAnalyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m"
+s279925163.665656
+e279925163.731473
+r1
+xAnalyze
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m
+lSLF07#2@97"Analyze /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m279925163#279925163#0(0"0(0#0#89"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m4300885448#2408"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-gtiefoamhdprmmbpgdczheiydrts/SimpleTwitterClient_Prefix.pch --analyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/RootViewController.plist"0#
+
+CAnalyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m"
+s279925163.535793
+e279925163.680066
+r1
+xAnalyze
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m
+lSLF07#2@109"Analyze /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m279925163#279925163#0(0"0(0#0#101"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m4300885448#2432"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-gtiefoamhdprmmbpgdczheiydrts/SimpleTwitterClient_Prefix.pch --analyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/SimpleTwitterClientAppDelegate.plist"0#
+
+CAnalyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m"
+s279925163.731937
+e279925163.772179
+r1
+xAnalyze
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m
+oIn file included from /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m:2:
+o/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h:14:25: error: cannot declare variable inside @interface or @protocol
+o static NSString * const kStatus = @"status";
+o                         ^
+o/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h:15:25: error: cannot declare variable inside @interface or @protocol
+o static NSString * const kText = @"text";
+o                         ^
+o2 diagnostics generated.
+lSLF07#2@85"Analyze /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m279925163#279925163#0(592"In file included from /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m:2:/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h:14:25: error: cannot declare variable inside @interface or @protocol static NSString * const kStatus = @"status";                         ^/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h:15:25: error: cannot declare variable inside @interface or @protocol static NSString * const kText = @"text";                         ^2 diagnostics generated.1(25@46"Analyzer skipped this file due to parse errors279925163#18446744073709551615#0#2(25@54"cannot declare variable inside @interface or @protocol279925163#18446744073709551615#0#0(6@91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h279901449#14#0#14#0#0"0(25@54"cannot declare variable inside @interface or @protocol279925163#18446744073709551615#0#0(6@91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h279901449#15#0#15#0#0"0(6@91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h279901449#0#0#0#0#0"0(0#0#77"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m4300885448#2384"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-gtiefoamhdprmmbpgdczheiydrts/SimpleTwitterClient_Prefix.pch --analyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/Status.plist"0#
+
+CAnalyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m"
+s279925163.680176
+e279925163.748338
+r1
+xAnalyze
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m
+oIn file included from /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m:1:
+o/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h:14:25: error: cannot declare variable inside @interface or @protocol
+o static NSString * const kStatus = @"status";
+o                         ^
+o/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h:15:25: error: cannot declare variable inside @interface or @protocol
+o static NSString * const kText = @"text";
+o                         ^
+o2 diagnostics generated.
+lSLF07#2@99"Analyze /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m279925163#279925163#0(606"In file included from /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m:1:/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h:14:25: error: cannot declare variable inside @interface or @protocol static NSString * const kStatus = @"status";                         ^/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h:15:25: error: cannot declare variable inside @interface or @protocol static NSString * const kText = @"text";                         ^2 diagnostics generated.1(25@46"Analyzer skipped this file due to parse errors279925163#18446744073709551615#0#2(25@54"cannot declare variable inside @interface or @protocol279925163#18446744073709551615#0#0(6@91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h279901449#14#0#14#0#0"0(25@54"cannot declare variable inside @interface or @protocol279925163#18446744073709551615#0#0(6@91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h279901449#15#0#15#0#0"0(6@91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.h279901449#0#0#0#0#0"0(0#0#91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m4300885448#2412"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-gtiefoamhdprmmbpgdczheiydrts/SimpleTwitterClient_Prefix.pch --analyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/StatusParserDelegate.plist"0#
+
+CAnalyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m"
+s279925163.533560
+e279925163.665552
+r1
+xAnalyze
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m
+lSLF07#2@75"Analyze /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m279925163#279925163#0(0"0(0#0#67"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m4300885448#2372"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-gtiefoamhdprmmbpgdczheiydrts/SimpleTwitterClient_Prefix.pch --analyze "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies280266753#280266753#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/RootViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s280266753.471342
+e280266754.323103
+r1
+xCompileC
+xbuild/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/RootViewController.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m280266753#280266754#0(0"0(0#0#89"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m7883924085954014208#2399"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/RootViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/SimpleTwitterClientAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s279901810.825272
+e279901810.965282
+r1
+xCompileC
+xbuild/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/SimpleTwitterClientAppDelegate.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m279901810#279901810#0(0"0(0#0#101"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m4300885448#2423"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/SimpleTwitterClientAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/SimpleTwitterClientAppDelegate.o"0#
+
+CCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/Status.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s280266753.747684
+e280266754.054784
+r1
+xCompileC
+xbuild/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/Status.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m280266753#280266754#0(0"0(0#0#77"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m3418917612769015296#2375"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/Status.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/Status.o"0#
+
+CCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/StatusParserDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s279976955.331127
+e279976955.833856
+r1
+xCompileC
+xbuild/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/StatusParserDelegate.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m279976955#279976955#0(0"0(0#0#91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m4300885448#2403"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/Classes/StatusParserDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/StatusParserDelegate.o"0#
+
+CCompileC build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s279898384.667027
+e279898384.890519
+r1
+xCompileC
+xbuild/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/main.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m279898384#279898384#0(0"0(0#0#67"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m4300885448#2363"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/MainWindow.xib"
+s279898381.252791
+e279898382.571207
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib279898381#279898382#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#75"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/MainWindow.xib4300885448#566"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/MainWindow.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/MainWindow.xib"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/RootViewController.xib"
+s279898381.290096
+e279898382.570607
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib279898381#279898382#0(0"0(0#0#83"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/RootViewController.xib4300885448#582"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/RootViewController.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/RootViewController.xib"0#
+
+CGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient"
+s280266755.479945
+e280266755.780704
+r1
+xGenerateDSYMFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app.dSYM
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/SimpleTwitterClient.app.dSYM build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient280266755#280266755#0(0"0(0#0#132"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient4300885448#491"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient" -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app.dSYM"0#
+
+CLd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient" normal i386
+s280266754.331433
+e280266755.479753
+r1
+xLd
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient
+xnormal
+xi386
+lSLF07#2@137"Link /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient280266754#280266755#0(0"0(0#0#0"4300885448#1044"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" -filelist "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/Objects-normal/i386/SimpleTwitterClient.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/SimpleTwitterClient"0#
+
+CProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/Info.plist" SimpleTwitterClient-Info.plist
+s279898381.160009
+e279898381.252666
+r1
+xProcessInfoPlistFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/Info.plist
+xSimpleTwitterClient-Info.plist
+lSLF07#2@38"Process SimpleTwitterClient-Info.plist279898381#279898381#0(0"0(0#0#91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/SimpleTwitterClient-Info.plist3419199057747521536#587"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleTwitterClient-Info.plist -genpkginfo "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch.gch SimpleTwitterClient_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s279898382.571354
+e279898384.666731
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch.gch
+xSimpleTwitterClient_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile SimpleTwitterClient_Prefix.pch279898382#279898384#0(0"0(0#0#91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/SimpleTwitterClient_Prefix.pch4300885448#2219"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/SimpleTwitterClient_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-dgxmqhcwwhhpxueuegqdvsqcztcu/SimpleTwitterClient_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-gtiefoamhdprmmbpgdczheiydrts/SimpleTwitterClient_Prefix.pch.pth SimpleTwitterClient_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s279925158.929956
+e279925163.532019
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-gtiefoamhdprmmbpgdczheiydrts/SimpleTwitterClient_Prefix.pch.pth
+xSimpleTwitterClient_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@41"Precompile SimpleTwitterClient_Prefix.pch279925158#279925163#0(0"0(0#0#91"/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/SimpleTwitterClient_Prefix.pch4300885448#2210"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/SimpleTwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/SimpleTwitterClient.build/Debug-iphonesimulator/SimpleTwitterClient.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/SimpleTwitterClient_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTwitterClient_Prefix-gtiefoamhdprmmbpgdczheiydrts/SimpleTwitterClient_Prefix.pch.pth0#
+
+CTouch "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app"
+s280266755.780809
+e280266755.858779
+r1
+xTouch
+x/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app
+lSLF07#2@118"Touch /Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app280266755#280266755#0(0"0(0#0#0"4300885448#338"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hanjo/Documents/iPhone Kurs/demos/SimpleTwitterClient/build/Debug-iphonesimulator/SimpleTwitterClient.app"0#
+

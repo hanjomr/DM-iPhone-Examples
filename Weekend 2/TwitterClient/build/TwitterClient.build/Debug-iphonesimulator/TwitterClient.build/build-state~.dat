@@ -1,0 +1,290 @@
+TTwitterClient
+v7
+r0
+t280489744.184251
+cCheck dependencies
+cProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/Info.plist" TwitterClient-Info.plist
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/MainWindow.xib"
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/RootViewController.xib"
+cProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterClient_Prefix-fokenkcxunzhjjhdscgdxpdpzdox/TwitterClient_Prefix.pch.gch TwitterClient_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/TwitterClientAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/TwitterClientAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/RootViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/Tweet.o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/Tweet.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient" normal i386
+cGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient"
+cTouch "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004ACF824900000000000000EE
+t1255113289
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/RootViewController.h
+c000000004B07B60C00000000000000DE
+t1258796556
+s222
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/RootViewController.m
+c000000004B07B60D000000000000100B
+t1258796557
+s4107
+i"RootViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/Tweet.h
+c000000004B07B76300000000000000C0
+t1258796899
+s192
+i<Foundation/Foundation.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/Tweet.m
+c000000004B07B78A000000000000004F
+t1258796938
+s79
+i"Tweet.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/TwitterClientAppDelegate.h
+c000000004B07B60D00000000000001D2
+t1258796557
+s466
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/TwitterClientAppDelegate.m
+c000000004B07B60D0000000000000354
+t1258796557
+s852
+i"TwitterClientAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/MainWindow.xib
+c000000004B07B60D0000000000002C79
+t1258796557
+s11385
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/RootViewController.xib
+c000000004B07B60D0000000000004327
+t1258796557
+s17191
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/TwitterClient_Prefix.pch
+c000000004B07B60D000000000000014C
+t1258796557
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app
+t1258796944
+s238
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app.dSYM
+t1258796944
+s102
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/Info.plist
+t1258796940
+s588
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/MainWindow.nib
+t1258796940
+s2018
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/PkgInfo
+t1258796940
+s8
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/RootViewController.nib
+t1258796940
+s1388
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient
+t1258796944
+s21392
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/RootViewController.o
+t1258796943
+s32348
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/Tweet.o
+t1258796943
+s7800
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/TwitterClient.LinkFileList
+c000000004B07B78C000000000000027B
+t1258796940
+s635
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/TwitterClientAppDelegate.o
+t1258796943
+s40016
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/main.o
+t1258796943
+s5988
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/main.m
+c000000004B07B60D0000000000000175
+t1258796557
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterClient_Prefix-fokenkcxunzhjjhdscgdxpdpzdox/TwitterClient_Prefix.pch.gch
+t1258796942
+s13034960
+
+NTwitterClient-Info.plist
+c000000004B07B60D000000000000038D
+t1258796557
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies280489740#280489740#0(0"0(0#1#0"28992373579448432#0"0#
+
+CCompileC build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/RootViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s280489743.083089
+e280489743.326533
+r1
+xCompileC
+xbuild/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/RootViewController.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/RootViewController.m280489743#280489743#0(0"0(0#0#83"/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/RootViewController.m4300885448#2213"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterClient_Prefix-fokenkcxunzhjjhdscgdxpdpzdox/TwitterClient_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/RootViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/Tweet.o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/Tweet.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s280489743.248828
+e280489743.326875
+r1
+xCompileC
+xbuild/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/Tweet.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/Tweet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/Tweet.m280489743#280489743#0(0"0(0#0#70"/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/Tweet.m4300885448#2187"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterClient_Prefix-fokenkcxunzhjjhdscgdxpdpzdox/TwitterClient_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/Tweet.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/Tweet.o"0#
+
+CCompileC build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/TwitterClientAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/TwitterClientAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s280489742.787428
+e280489743.248642
+r1
+xCompileC
+xbuild/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/TwitterClientAppDelegate.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/TwitterClientAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/TwitterClientAppDelegate.m280489742#280489743#0(0"0(0#0#89"/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/TwitterClientAppDelegate.m4300885448#2225"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterClient_Prefix-fokenkcxunzhjjhdscgdxpdpzdox/TwitterClient_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/Classes/TwitterClientAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/TwitterClientAppDelegate.o"0#
+
+CCompileC build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s280489742.785504
+e280489743.082965
+r1
+xCompileC
+xbuild/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/main.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/main.m280489742#280489743#0(0"0(0#0#61"/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/main.m4300885448#2177"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterClient_Prefix-fokenkcxunzhjjhdscgdxpdpzdox/TwitterClient_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/MainWindow.xib"
+s280489740.463422
+e280489740.983484
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib280489740#280489740#0(0"0(0#0#69"/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/MainWindow.xib4300885448#542"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/MainWindow.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/MainWindow.xib"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/RootViewController.xib"
+s280489740.547556
+e280489740.983800
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib280489740#280489740#0(0"0(0#0#77"/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/RootViewController.xib4300885448#558"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/RootViewController.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/RootViewController.xib"0#
+
+CGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient"
+s280489744.003827
+e280489744.128948
+r1
+xGenerateDSYMFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app.dSYM
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/TwitterClient.app.dSYM build/Debug-iphonesimulator/TwitterClient.app/TwitterClient280489744#280489744#0(0"0(0#0#114"/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient4300885448#455"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient" -o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app.dSYM"0#
+
+CLd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient" normal i386
+s280489743.326950
+e280489744.003683
+r1
+xLd
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient
+xnormal
+xi386
+lSLF07#2@119"Link /Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient280489743#280489744#0(0"0(0#0#0"4300885448#984"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator" -filelist "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/Objects-normal/i386/TwitterClient.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/TwitterClient"0#
+
+CProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/Info.plist" TwitterClient-Info.plist
+s280489740.410909
+e280489740.463277
+r1
+xProcessInfoPlistFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/Info.plist
+xTwitterClient-Info.plist
+lSLF07#2@32"Process TwitterClient-Info.plist280489740#280489740#0(0"0(0#0#79"/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/TwitterClient-Info.plist3419199057747521536#551"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TwitterClient-Info.plist -genpkginfo "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterClient_Prefix-fokenkcxunzhjjhdscgdxpdpzdox/TwitterClient_Prefix.pch.gch TwitterClient_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s280489740.983976
+e280489742.785179
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterClient_Prefix-fokenkcxunzhjjhdscgdxpdpzdox/TwitterClient_Prefix.pch.gch
+xTwitterClient_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile TwitterClient_Prefix.pch280489740#280489742#0(0"0(0#0#79"/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/TwitterClient_Prefix.pch4300885448#2045"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/TwitterClient-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/TwitterClient.build/Debug-iphonesimulator/TwitterClient.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/TwitterClient_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TwitterClient_Prefix-fokenkcxunzhjjhdscgdxpdpzdox/TwitterClient_Prefix.pch.gch0#
+
+CTouch "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app"
+s280489744.129056
+e280489744.184109
+r1
+xTouch
+x/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app
+lSLF07#2@106"Touch /Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app280489744#280489744#0(0"0(0#0#0"4300885448#320"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hanjo/Documents/iPhone Kurs/demos/TwitterClient/build/Debug-iphonesimulator/TwitterClient.app"0#
+

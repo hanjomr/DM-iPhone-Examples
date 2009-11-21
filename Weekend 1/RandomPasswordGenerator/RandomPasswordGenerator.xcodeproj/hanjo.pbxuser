@@ -1,0 +1,249 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* RandomPasswordGeneratorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 456}}";
+			sepNavSelRange = "{74, 0}";
+			sepNavVisRange = "{0, 255}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* RandomPasswordGeneratorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {732, 646}}";
+			sepNavSelRange = "{381, 0}";
+			sepNavVisRange = "{602, 102}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* RandomPasswordGenerator */ = {
+		activeExec = 0;
+		executables = (
+			570ABB9510933B3C00B761CE /* RandomPasswordGenerator */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RandomPasswordGeneratorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {702, 323}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{183, 109}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RandomPasswordGeneratorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 1216}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{47, 248}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 570ABB9510933B3C00B761CE /* RandomPasswordGenerator */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RandomPasswordGenerator */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* RandomPasswordGenerator */,
+		);
+		codeSenseManager = 570ABB9A10933B5B00B761CE /* Code sense */;
+		executables = (
+			570ABB9510933B3C00B761CE /* RandomPasswordGenerator */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					753,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 278084412;
+			PBXWorkspaceStateSaveDate = 278084412;
+		};
+		perUserProjectItems = {
+			570ABBD610934BAD00B761CE /* PBXTextBookmark */ = 570ABBD610934BAD00B761CE /* PBXTextBookmark */;
+			570ABBD710934BAD00B761CE /* PBXTextBookmark */ = 570ABBD710934BAD00B761CE /* PBXTextBookmark */;
+			570ABBD810934BAD00B761CE /* PBXTextBookmark */ = 570ABBD810934BAD00B761CE /* PBXTextBookmark */;
+			570ABBD910934BAD00B761CE /* PBXTextBookmark */ = 570ABBD910934BAD00B761CE /* PBXTextBookmark */;
+			570ABBDA10934BAD00B761CE /* PBXTextBookmark */ = 570ABBDA10934BAD00B761CE /* PBXTextBookmark */;
+			570ABBDB10934BAD00B761CE /* PBXTextBookmark */ = 570ABBDB10934BAD00B761CE /* PBXTextBookmark */;
+			570ABBDC10934BAD00B761CE /* PBXTextBookmark */ = 570ABBDC10934BAD00B761CE /* PBXTextBookmark */;
+			570ABBDD10934BAD00B761CE /* PBXTextBookmark */ = 570ABBDD10934BAD00B761CE /* PBXTextBookmark */;
+			570ABBDE10934BAD00B761CE /* PBXTextBookmark */ = 570ABBDE10934BAD00B761CE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 570ABB9910933B5B00B761CE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1071, 421}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 383}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* RandomPasswordGenerator_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1192, 421}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 215}";
+		};
+	};
+	570ABB9510933B3C00B761CE /* RandomPasswordGenerator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RandomPasswordGenerator;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	570ABB9910933B5B00B761CE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	570ABB9A10933B5B00B761CE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	570ABBA010933C9E00B761CE /* PasswordGenerator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 421}}";
+			sepNavSelRange = "{275, 16}";
+			sepNavVisRange = "{0, 301}";
+		};
+	};
+	570ABBA110933C9E00B761CE /* PasswordGenerator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 475}}";
+			sepNavSelRange = "{332, 0}";
+			sepNavVisRange = "{0, 339}";
+		};
+	};
+	570ABBD610934BAD00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* RandomPasswordGenerator_Prefix.pch */;
+		name = "RandomPasswordGenerator_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 215;
+		vrLoc = 0;
+	};
+	570ABBD710934BAD00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 0;
+	};
+	570ABBD810934BAD00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RandomPasswordGeneratorAppDelegate.h */;
+		name = "RandomPasswordGeneratorAppDelegate.h: 4";
+		rLen = 0;
+		rLoc = 74;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	570ABBD910934BAD00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RandomPasswordGeneratorAppDelegate.m */;
+		name = "RandomPasswordGeneratorAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 381;
+		rType = 0;
+		vrLen = 102;
+		vrLoc = 602;
+	};
+	570ABBDA10934BAD00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RandomPasswordGeneratorViewController.h */;
+		name = "RandomPasswordGeneratorViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 109;
+		vrLoc = 183;
+	};
+	570ABBDB10934BAD00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RandomPasswordGeneratorViewController.m */;
+		name = "RandomPasswordGeneratorViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 47;
+	};
+	570ABBDC10934BAD00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 570ABBA010933C9E00B761CE /* PasswordGenerator.h */;
+		name = "PasswordGenerator.h: 18";
+		rLen = 16;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	570ABBDD10934BAD00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 570ABBA110933C9E00B761CE /* PasswordGenerator.m */;
+		name = "PasswordGenerator.m: 20";
+		rLen = 0;
+		rLoc = 332;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	570ABBDE10934BAD00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 570ABBA110933C9E00B761CE /* PasswordGenerator.m */;
+		name = "PasswordGenerator.m: 20";
+		rLen = 0;
+		rLoc = 332;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+}

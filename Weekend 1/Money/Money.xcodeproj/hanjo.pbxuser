@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MoneyAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {762, 437}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 473}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MoneyAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 608}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 512}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Money */ = {
+		activeExec = 0;
+		executables = (
+			570ABACE108CE08C00B761CE /* Money */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MoneyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 424}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MoneyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 1311}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{150, 515}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 570ABACE108CE08C00B761CE /* Money */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Money */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Money */,
+		);
+		codeSenseManager = 570ABADE108CE08F00B761CE /* Code sense */;
+		executables = (
+			570ABACE108CE08C00B761CE /* Money */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 278076055;
+			PBXWorkspaceStateSaveDate = 278076055;
+		};
+		perUserProjectItems = {
+			570ABBC11093485C00B761CE /* PBXTextBookmark */ = 570ABBC11093485C00B761CE /* PBXTextBookmark */;
+			570ABBC21093485C00B761CE /* PBXTextBookmark */ = 570ABBC21093485C00B761CE /* PBXTextBookmark */;
+			570ABBC31093485C00B761CE /* PBXTextBookmark */ = 570ABBC31093485C00B761CE /* PBXTextBookmark */;
+			570ABBC41093485C00B761CE /* PBXTextBookmark */ = 570ABBC41093485C00B761CE /* PBXTextBookmark */;
+			570ABBC51093485C00B761CE /* PBXTextBookmark */ = 570ABBC51093485C00B761CE /* PBXTextBookmark */;
+			570ABBC61093485C00B761CE /* PBXTextBookmark */ = 570ABBC61093485C00B761CE /* PBXTextBookmark */;
+			570ABBC71093485C00B761CE /* PBXTextBookmark */ = 570ABBC71093485C00B761CE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 570ABADD108CE08F00B761CE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	570ABACE108CE08C00B761CE /* Money */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Money;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	570ABADD108CE08F00B761CE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	570ABADE108CE08F00B761CE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	570ABAE0108CE84B00B761CE /* Money.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 401}}";
+			sepNavSelRange = "{80, 0}";
+			sepNavVisRange = "{0, 89}";
+		};
+	};
+	570ABAE1108CE84B00B761CE /* Money.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 401}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+	570ABBC11093485C00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MoneyViewController.m */;
+		name = "MoneyViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 150;
+	};
+	570ABBC21093485C00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MoneyViewController.h */;
+		name = "MoneyViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+	570ABBC31093485C00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MoneyAppDelegate.m */;
+		name = "MoneyAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 512;
+		vrLoc = 0;
+	};
+	570ABBC41093485C00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MoneyAppDelegate.h */;
+		name = "MoneyAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 0;
+	};
+	570ABBC51093485C00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 570ABAE0108CE84B00B761CE /* Money.h */;
+		name = "Money.h: 6";
+		rLen = 0;
+		rLoc = 80;
+		rType = 0;
+		vrLen = 89;
+		vrLoc = 0;
+	};
+	570ABBC61093485C00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 570ABAE1108CE84B00B761CE /* Money.m */;
+		name = "Money.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	570ABBC71093485C00B761CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 570ABAE1108CE84B00B761CE /* Money.m */;
+		name = "Money.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+}

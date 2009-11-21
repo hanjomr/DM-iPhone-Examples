@@ -1,0 +1,356 @@
+TCurrencyTable
+v7
+r0
+t278363521.949331
+cCheck dependencies
+cProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/Info.plist" CurrencyTable-Info.plist
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/MainWindow.xib"
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTableViewController.xib"
+cProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-foupkgcjxleirygjukfmedykbunh/CurrencyTable_Prefix.pch.gch CurrencyTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/Money.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable" normal i386
+cGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable"
+cTouch "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004ACF824900000000000000EE
+t1255113289
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.h
+c000000004AE2D6360000000000000165
+t1256379958
+s357
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m
+c000000004AE2D8E8000000000000028F
+t1256380648
+s655
+i"CurrencyTableAppDelegate.h"
+i"CurrencyTableViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.h
+c000000004AE2D5AA0000000000000106
+t1256379818
+s262
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m
+c000000004AE745C700000000000004D6
+t1256670663
+s1238
+i"CurrencyTableViewController.h"
+i"Money.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.h
+c000000004AE2DEEF00000000000000D0
+t1256382191
+s208
+i<Foundation/Foundation.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m
+c000000004AE745F60000000000000155
+t1256670710
+s341
+i"Money.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTableViewController.xib
+c000000004AE2D5AA00000000000018F3
+t1256379818
+s6387
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTable_Prefix.pch
+c000000004AE2D5AA00000000000000C3
+t1256379818
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/MainWindow.xib
+c000000004AE2D5AA0000000000002490
+t1256379818
+s9360
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTable.LinkFileList
+c000000004AE2DC060000000000000284
+t1256381446
+s644
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableAppDelegate.o
+t1256381449
+s38244
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableViewController.o
+t1256670720
+s34364
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/Money.o
+t1256670721
+s7956
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/main.o
+t1256381449
+s5988
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/StaticAnalyzer/normal/i386/CurrencyTableAppDelegate.plist
+t1256389052
+s275
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/StaticAnalyzer/normal/i386/CurrencyTableViewController.plist
+t1256389149
+s7675
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/StaticAnalyzer/normal/i386/Money.plist
+t1256389052
+s275
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/StaticAnalyzer/normal/i386/main.plist
+t1256389052
+s275
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app
+t1256670721
+s238
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app.dSYM
+t1256670721
+s102
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable
+t1256670721
+s20988
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTableViewController.nib
+t1256381447
+s1151
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/Info.plist
+t1256381447
+s588
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/MainWindow.nib
+t1256381447
+s1507
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/PkgInfo
+t1256381447
+s8
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m
+c000000004AE2D5AA0000000000000175
+t1256379818
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-aspolplfzcqauqbptmqzrfuuqkav/CurrencyTable_Prefix.pch.pth
+t1256389052
+s1729108
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-foupkgcjxleirygjukfmedykbunh/CurrencyTable_Prefix.pch.gch
+t1256381448
+s13034960
+
+NCurrencyTable-Info.plist
+c000000004AE2D5AA000000000000038D
+t1256379818
+s909
+
+CAnalyze "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m"
+s278081852.271376
+e278081852.353960
+r1
+xAnalyze
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m
+lSLF07#2@97"Analyze /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m278081852#278081852#0(0"0(0#0#89"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m4300885448#2234"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-aspolplfzcqauqbptmqzrfuuqkav/CurrencyTable_Prefix.pch --analyze "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/StaticAnalyzer/normal/i386/CurrencyTableAppDelegate.plist"0#
+
+CAnalyze "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m"
+s278081949.107981
+e278081949.150924
+r1
+xAnalyze
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m
+o/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m:35:25: warning: Potential leak of an object allocated on line 35 and stored into 'moneyLabel'
+o                 UILabel *moneyLabel = [[UILabel alloc] initWithFrame:CGRectMake(10, 30 * j, 200, 30)];
+o                                       ^
+o1 diagnostic generated.
+lSLF07#2@100"Analyze /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081949#278081949#0(356"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m:35:25: warning: Potential leak of an object allocated on line 35 and stored into 'moneyLabel'                 UILabel *moneyLabel = [[UILabel alloc] initWithFrame:CGRectMake(10, 30 * j, 200, 30)];                                       ^1 diagnostic generated.1(0@77"Potential leak of an object allocated on line 35 and stored into 'moneyLabel'278081949#18446744073709551615#0#7(17@0"278081949#18446744073709551615#0#0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#0"0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#1(3@6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#21#2#21#2#6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#32#2#32#2#17@0"278081949#18446744073709551615#0#0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#0"0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#1(3@6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#32#2#32#2#6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#33#3#33#3#17@0"278081949#18446744073709551615#0#0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#0"0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#1(3@6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#33#3#33#3#6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#35#3#35#3#17@0"278081949#18446744073709551615#0#0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#0"0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#1(3@6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#35#3#35#3#6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#35#25#35#87#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)278081949#18446744073709551615#0#0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#35#25#0#0#0"1(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#35#25#35#87#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"278081949#18446744073709551615#0#0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#0"0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#0#0#0#0#1(3@6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#35#25#35#87#6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#41#3#41#3#21@142"Object allocated on line 35 and stored into 'moneyLabel' is no longer referenced after this point and has a retain count of +1 (object leaked)278081949#18446744073709551615#0#0(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#41#3#0#0#0"1(6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#41#3#41#3#142"Object allocated on line 35 and stored into 'moneyLabel' is no longer referenced after this point and has a retain count of +1 (object leaked)6@92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278081937#41#3#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m4300885448#2240"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-aspolplfzcqauqbptmqzrfuuqkav/CurrencyTable_Prefix.pch --analyze "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/StaticAnalyzer/normal/i386/CurrencyTableViewController.plist"0#
+
+CAnalyze "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m"
+s278081852.357300
+e278081852.406619
+r1
+xAnalyze
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m
+lSLF07#2@78"Analyze /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m278081852#278081852#0(0"0(0#0#70"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m4300885448#2196"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-aspolplfzcqauqbptmqzrfuuqkav/CurrencyTable_Prefix.pch --analyze "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/StaticAnalyzer/normal/i386/Money.plist"0#
+
+CAnalyze "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m"
+s278081852.269893
+e278081852.357204
+r1
+xAnalyze
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m
+lSLF07#2@69"Analyze /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m278081852#278081852#0(0"0(0#0#61"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m4300885448#2186"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-aspolplfzcqauqbptmqzrfuuqkav/CurrencyTable_Prefix.pch --analyze "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278363518#278363518#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s278074248.978303
+e278074249.313034
+r1
+xCompileC
+xbuild/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableAppDelegate.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m278074248#278074249#0(0"0(0#0#89"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m4300885448#2225"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-foupkgcjxleirygjukfmedykbunh/CurrencyTable_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableAppDelegate.o"0#
+
+CCompileC build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s278363518.793657
+e278363521.127436
+r1
+xCompileC
+xbuild/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableViewController.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m278363518#278363521#0(0"0(0#0#92"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m4300885448#2231"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-foupkgcjxleirygjukfmedykbunh/CurrencyTable_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/CurrencyTableViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTableViewController.o"0#
+
+CCompileC build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/Money.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s278363519.221881
+e278363521.426546
+r1
+xCompileC
+xbuild/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/Money.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m278363519#278363521#0(0"0(0#0#70"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m4300885448#2187"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-foupkgcjxleirygjukfmedykbunh/CurrencyTable_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/Classes/Money.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/Money.o"0#
+
+CCompileC build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s278074248.976354
+e278074249.314577
+r1
+xCompileC
+xbuild/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/main.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m278074248#278074249#0(0"0(0#0#61"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m4300885448#2177"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-foupkgcjxleirygjukfmedykbunh/CurrencyTable_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTableViewController.xib"
+s278074247.091862
+e278074247.622831
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTableViewController.xib
+lSLF07#2@42"CompileXIB CurrencyTableViewController.xib278074247#278074247#0(0"0(0#0#86"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTableViewController.xib4300885448#576"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTableViewController.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTableViewController.xib"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/MainWindow.xib"
+s278074247.045096
+e278074247.635531
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib278074247#278074247#0(0"0(0#0#69"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/MainWindow.xib4300885448#542"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/MainWindow.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable"
+s278363521.746695
+e278363521.945692
+r1
+xGenerateDSYMFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app.dSYM
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/CurrencyTable.app.dSYM build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable278363521#278363521#0(0"0(0#0#114"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable4300885448#455"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable" -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app.dSYM"0#
+
+CLd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable" normal i386
+s278363521.426655
+e278363521.746572
+r1
+xLd
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable
+xnormal
+xi386
+lSLF07#2@119"Link /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable278363521#278363521#0(0"0(0#0#0"4300885448#984"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" -filelist "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/Objects-normal/i386/CurrencyTable.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/CurrencyTable"0#
+
+CProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/Info.plist" CurrencyTable-Info.plist
+s278074246.953452
+e278074247.044983
+r1
+xProcessInfoPlistFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/Info.plist
+xCurrencyTable-Info.plist
+lSLF07#2@32"Process CurrencyTable-Info.plist278074246#278074247#0(0"0(0#0#79"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTable-Info.plist3419199057747521536#551"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CurrencyTable-Info.plist -genpkginfo "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-aspolplfzcqauqbptmqzrfuuqkav/CurrencyTable_Prefix.pch.pth CurrencyTable_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s278081851.770587
+e278081852.269271
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-aspolplfzcqauqbptmqzrfuuqkav/CurrencyTable_Prefix.pch.pth
+xCurrencyTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@35"Precompile CurrencyTable_Prefix.pch278081851#278081852#0(0"0(0#0#79"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTable_Prefix.pch4300885448#2036"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTable_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-aspolplfzcqauqbptmqzrfuuqkav/CurrencyTable_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-foupkgcjxleirygjukfmedykbunh/CurrencyTable_Prefix.pch.gch CurrencyTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s278074247.635813
+e278074248.976098
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-foupkgcjxleirygjukfmedykbunh/CurrencyTable_Prefix.pch.gch
+xCurrencyTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile CurrencyTable_Prefix.pch278074247#278074248#0(0"0(0#0#79"/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTable_Prefix.pch4300885448#2045"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/CurrencyTable-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/CurrencyTable.build/Debug-iphonesimulator/CurrencyTable.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/CurrencyTable_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrencyTable_Prefix-foupkgcjxleirygjukfmedykbunh/CurrencyTable_Prefix.pch.gch0#
+
+CTouch "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app"
+s278363521.945829
+e278363521.949280
+r1
+xTouch
+x/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app
+lSLF07#2@106"Touch /Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app278363521#278363521#0(0"0(0#0#0"4300885448#320"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hanjo/Documents/iPhone Kurs/demos/CurrencyTable/build/Debug-iphonesimulator/CurrencyTable.app"0#
+

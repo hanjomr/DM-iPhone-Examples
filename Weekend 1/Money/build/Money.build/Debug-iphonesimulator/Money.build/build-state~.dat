@@ -1,0 +1,286 @@
+TMoney
+v7
+r0
+t278086972.562593
+cCheck dependencies
+cProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Info.plist" Money-Info.plist
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/Money/MainWindow.xib"
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/Money/MoneyViewController.xib"
+cProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Money_Prefix-gqaqpxitofbytgbrtxsketogkemx/Money_Prefix.pch.gch Money_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/Money.o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/Money.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money" normal i386
+cGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money"
+cTouch "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004ACF824900000000000000EE
+t1255113289
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/Money.h
+c000000004ADCB1C60000000000000059
+t1255977414
+s89
+i<Foundation/Foundation.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/Money.m
+c000000004ADCB0CB00000000000000B9
+t1255977163
+s185
+i"Money.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyAppDelegate.h
+c000000004ADCA90B00000000000001D9
+t1255975179
+s473
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyAppDelegate.m
+c000000004ADCA90B0000000000000266
+t1255975179
+s614
+i"MoneyAppDelegate.h"
+i"MoneyViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyViewController.h
+c000000004ADCA90B00000000000000EE
+t1255975179
+s238
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyViewController.m
+c000000004ADCA90B00000000000005B5
+t1255975179
+s1461
+i"MoneyViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/MainWindow.xib
+c000000004ADCA90B0000000000002438
+t1255975179
+s9272
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/MoneyViewController.xib
+c000000004ADCA90B00000000000018D3
+t1255975179
+s6355
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/Money_Prefix.pch
+c000000004ADCA90B00000000000000B3
+t1255975179
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app
+t1256394172
+s238
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app.dSYM
+t1256394172
+s102
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Info.plist
+t1256394168
+s556
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/MainWindow.nib
+t1256394169
+s1491
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money
+t1256394172
+s19420
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/MoneyViewController.nib
+t1256394169
+s1151
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/PkgInfo
+t1256394168
+s8
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/Money.LinkFileList
+c000000004AE30DB80000000000000214
+t1256394168
+s532
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/Money.o
+t1256394172
+s4944
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyAppDelegate.o
+t1256394172
+s38036
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyViewController.o
+t1256394172
+s29936
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/main.o
+t1256394172
+s5972
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Money/main.m
+c000000004ADCA90B000000000000016D
+t1255975179
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Money_Prefix-gqaqpxitofbytgbrtxsketogkemx/Money_Prefix.pch.gch
+t1256394171
+s13034960
+
+NMoney-Info.plist
+c000000004ADCA90B000000000000038D
+t1255975179
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278086968#278086968#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/Money.o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/Money.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s278086972.142814
+e278086972.215775
+r1
+xCompileC
+xbuild/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/Money.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/Money.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/Money.m278086972#278086972#0(0"0(0#0#62"/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/Money.m4300885448#1939"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Money_Prefix-gqaqpxitofbytgbrtxsketogkemx/Money_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/Money.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/Money.o"0#
+
+CCompileC build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s278086971.948346
+e278086972.142685
+r1
+xCompileC
+xbuild/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyAppDelegate.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyAppDelegate.m278086971#278086972#0(0"0(0#0#73"/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyAppDelegate.m4300885448#1961"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Money_Prefix-gqaqpxitofbytgbrtxsketogkemx/Money_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyAppDelegate.o"0#
+
+CCompileC build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s278086972.140462
+e278086972.234909
+r1
+xCompileC
+xbuild/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyViewController.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyViewController.m278086972#278086972#0(0"0(0#0#76"/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyViewController.m4300885448#1967"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Money_Prefix-gqaqpxitofbytgbrtxsketogkemx/Money_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Classes/MoneyViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/MoneyViewController.o"0#
+
+CCompileC build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s278086971.946306
+e278086972.140301
+r1
+xCompileC
+xbuild/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/main.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/hanjo/Documents/iPhone Kurs/demos/Money/main.m278086971#278086972#0(0"0(0#0#53"/Users/hanjo/Documents/iPhone Kurs/demos/Money/main.m4300885448#1929"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Money_Prefix-gqaqpxitofbytgbrtxsketogkemx/Money_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/Money/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/Money/MainWindow.xib"
+s278086968.498781
+e278086969.848915
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib278086968#278086969#0(0"0(0#0#61"/Users/hanjo/Documents/iPhone Kurs/demos/Money/MainWindow.xib4300885448#510"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/MainWindow.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/Money/MainWindow.xib"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/Money/MoneyViewController.xib"
+s278086968.523674
+e278086969.789314
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/MoneyViewController.xib
+lSLF07#2@34"CompileXIB MoneyViewController.xib278086968#278086969#0(0"0(0#0#70"/Users/hanjo/Documents/iPhone Kurs/demos/Money/MoneyViewController.xib4300885448#528"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/MoneyViewController.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/Money/MoneyViewController.xib"0#
+
+CGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money"
+s278086972.407259
+e278086972.526359
+r1
+xGenerateDSYMFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app.dSYM
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Money.app.dSYM build/Debug-iphonesimulator/Money.app/Money278086972#278086972#0(0"0(0#0#90"/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money4300885448#407"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money" -o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app.dSYM"0#
+
+CLd "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money" normal i386
+s278086972.235019
+e278086972.407120
+r1
+xLd
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money
+xnormal
+xi386
+lSLF07#2@95"Link /Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money278086972#278086972#0(0"0(0#0#0"4300885448#904"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator" -filelist "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Objects-normal/i386/Money.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Money"0#
+
+CProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Info.plist" Money-Info.plist
+s278086968.463537
+e278086968.498679
+r1
+xProcessInfoPlistFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Info.plist
+xMoney-Info.plist
+lSLF07#2@24"Process Money-Info.plist278086968#278086968#0(0"0(0#0#63"/Users/hanjo/Documents/iPhone Kurs/demos/Money/Money-Info.plist4300885448#503"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Money-Info.plist -genpkginfo "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Money_Prefix-gqaqpxitofbytgbrtxsketogkemx/Money_Prefix.pch.gch Money_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s278086969.849091
+e278086971.946062
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Money_Prefix-gqaqpxitofbytgbrtxsketogkemx/Money_Prefix.pch.gch
+xMoney_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Money_Prefix.pch278086969#278086971#0(0"0(0#0#63"/Users/hanjo/Documents/iPhone Kurs/demos/Money/Money_Prefix.pch4300885448#1813"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/Money-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Money.build/Debug-iphonesimulator/Money.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/Money/Money_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Money_Prefix-gqaqpxitofbytgbrtxsketogkemx/Money_Prefix.pch.gch0#
+
+CTouch "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app"
+s278086972.526470
+e278086972.562529
+r1
+xTouch
+x/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app
+lSLF07#2@90"Touch /Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app278086972#278086972#0(0"0(0#0#0"4300885448#296"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Money"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hanjo/Documents/iPhone Kurs/demos/Money/build/Debug-iphonesimulator/Money.app"0#
+

@@ -1,0 +1,256 @@
+TTweeter
+v7
+r0
+t279979708.706332
+cCheck dependencies
+cProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Info.plist" Tweeter-Info.plist
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/MainWindow.xib"
+cCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/TweeterViewController.xib"
+cProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tweeter_Prefix-hfuhvngdxumcdhemqheldoptclwc/Tweeter_Prefix.pch.gch Tweeter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter" normal i386
+cGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter"
+cTouch "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004ACF824900000000000000EE
+t1255113289
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterAppDelegate.h
+c000000004AFFE99200000000000001E5
+t1258285458
+s485
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterAppDelegate.m
+c000000004AFFE9920000000000000270
+t1258285458
+s624
+i"TweeterAppDelegate.h"
+i"TweeterViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterViewController.h
+c000000004AFFEDE00000000000000099
+t1258286560
+s153
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterViewController.m
+c000000004AFFEDF90000000000000544
+t1258286585
+s1348
+i"TweeterViewController.h"
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/MainWindow.xib
+c000000004AFFE992000000000000244E
+t1258285458
+s9294
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/TweeterViewController.xib
+c000000004AFFEF2A0000000000004556
+t1258286890
+s17750
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Tweeter_Prefix.pch
+c000000004AFFE99200000000000000B7
+t1258285458
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app
+t1258286908
+s238
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app.dSYM
+t1258286908
+s102
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Info.plist
+t1258286896
+s564
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/MainWindow.nib
+t1258286900
+s1495
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/PkgInfo
+t1258286896
+s8
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter
+t1258286908
+s19572
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/TweeterViewController.nib
+t1258286900
+s1907
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/Tweeter.LinkFileList
+c000000004AFFEF3000000000000001AB
+t1258286896
+s427
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterAppDelegate.o
+t1258286908
+s39636
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterViewController.o
+t1258286908
+s33616
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/main.o
+t1258286907
+s5976
+
+N/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/main.m
+c000000004AFFE992000000000000016F
+t1258285458
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tweeter_Prefix-hfuhvngdxumcdhemqheldoptclwc/Tweeter_Prefix.pch.gch
+t1258286907
+s13034960
+
+NTweeter-Info.plist
+c000000004AFFE992000000000000038D
+t1258285458
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279979696#279979696#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterAppDelegate.o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s279979707.902227
+e279979708.041513
+r1
+xCompileC
+xbuild/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterAppDelegate.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterAppDelegate.m279979707#279979708#0(0"0(0#0#77"/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterAppDelegate.m4300885448#2027"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tweeter_Prefix-hfuhvngdxumcdhemqheldoptclwc/Tweeter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterAppDelegate.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterAppDelegate.o"0#
+
+CCompileC build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterViewController.o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s279979708.000340
+e279979708.145985
+r1
+xCompileC
+xbuild/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterViewController.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterViewController.m279979708#279979708#0(0"0(0#0#80"/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterViewController.m4300885448#2033"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tweeter_Prefix-hfuhvngdxumcdhemqheldoptclwc/Tweeter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Classes/TweeterViewController.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/TweeterViewController.o"0#
+
+CCompileC build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/main.o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s279979707.882174
+e279979708.000199
+r1
+xCompileC
+xbuild/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/main.o
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/main.m279979707#279979708#0(0"0(0#0#55"/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/main.m4300885448#1991"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/DerivedSources" -include /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tweeter_Prefix-hfuhvngdxumcdhemqheldoptclwc/Tweeter_Prefix.pch -c "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/main.m" -o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/MainWindow.xib"
+s279979696.885329
+e279979700.182961
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib279979696#279979700#0(0"0(0#0#63"/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/MainWindow.xib4300885448#518"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/MainWindow.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/MainWindow.xib"0#
+
+CCompileXIB "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/TweeterViewController.xib"
+s279979696.965850
+e279979700.186497
+r1
+xCompileXIB
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/TweeterViewController.xib
+lSLF07#2@36"CompileXIB TweeterViewController.xib279979696#279979700#0(0"0(0#0#74"/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/TweeterViewController.xib4300885448#540"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/TweeterViewController.nib" "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/TweeterViewController.xib"0#
+
+CGenerateDSYMFile "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app.dSYM" "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter"
+s279979708.363132
+e279979708.641450
+r1
+xGenerateDSYMFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app.dSYM
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Tweeter.app.dSYM build/Debug-iphonesimulator/Tweeter.app/Tweeter279979708#279979708#0(0"0(0#0#96"/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter4300885448#419"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter" -o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app.dSYM"0#
+
+CLd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter" normal i386
+s279979708.146098
+e279979708.363009
+r1
+xLd
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter
+xnormal
+xi386
+lSLF07#2@101"Link /Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter279979708#279979708#0(0"0(0#0#0"4300885448#924"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator" -filelist "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Objects-normal/i386/Tweeter.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Tweeter"0#
+
+CProcessInfoPlistFile "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Info.plist" Tweeter-Info.plist
+s279979696.878967
+e279979696.885205
+r1
+xProcessInfoPlistFile
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Info.plist
+xTweeter-Info.plist
+lSLF07#2@26"Process Tweeter-Info.plist279979696#279979696#0(0"0(0#0#67"/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Tweeter-Info.plist4300885448#515"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Tweeter-Info.plist -genpkginfo "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tweeter_Prefix-hfuhvngdxumcdhemqheldoptclwc/Tweeter_Prefix.pch.gch Tweeter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s279979700.186739
+e279979707.881805
+r1
+xProcessPCH
+x/var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tweeter_Prefix-hfuhvngdxumcdhemqheldoptclwc/Tweeter_Prefix.pch.gch
+xTweeter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Tweeter_Prefix.pch279979700#279979707#0(0"0(0#0#67"/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Tweeter_Prefix.pch4300885448#1871"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-generated-files.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-own-target-headers.hmap" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-all-target-headers.hmap" -iquote "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/Tweeter-project-headers.hmap" "-F/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/include" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/DerivedSources/i386" "-I/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Tweeter.build/Debug-iphonesimulator/Tweeter.build/DerivedSources" -c "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/Tweeter_Prefix.pch" -o /var/folders/Ao/Ao6cfCZdF-e-ex81HX2iWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tweeter_Prefix-hfuhvngdxumcdhemqheldoptclwc/Tweeter_Prefix.pch.gch0#
+
+CTouch "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app"
+s279979708.641567
+e279979708.706203
+r1
+xTouch
+x/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app
+lSLF07#2@94"Touch /Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app279979708#279979708#0(0"0(0#0#0"4300885448#302"    cd "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hanjo/Documents/iPhone Kurs/demos/Tweeter/build/Debug-iphonesimulator/Tweeter.app"0#
+
